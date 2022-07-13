@@ -1,5 +1,7 @@
 # Scaffdog Test
 
+React コンポーネントファイルを自動生成
+
 ## Setup
 
 ```sh
